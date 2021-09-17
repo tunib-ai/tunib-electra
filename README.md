@@ -62,7 +62,7 @@ model = AutoModel.from_pretrained('tunib/electra-ko-base')
 | [KoELECTRA-base-v3](https://github.com/monologg/KoELECTRA)    |  110M | 85.92   |90.63   |      **88.11**	     |    84.45    |    82.24    |       **85.53**      |     95.25      | **84.83 / 93.45**	     |  67.61 |
 | [KcELECTRA-base](https://github.com/Beomi/KcELECTRA) | 124M|  84.75     |**91.71**      |         86.90          |       74.80        |        81.65         |           82.65           |          **95.78**          |         70.60 / 90.11         | **74.49** |
 | [KoBERT-base](https://github.com/SKTBrain/KoBERT)        |  90M  |   81.92       |  89.63        |         86.11          |       80.65        |        79.00         |           79.64           |            93.93            |         52.81 / 80.27         | 66.21 |
-| [KcBERT-base](https://github.com/Beomi/KcBERT)         |   110M    |   81.37    | 89.62        |         84.34          |       66.95        |        74.85         |           75.57           |            93.93            |         60.25 / 84.39         |  |
+| [KcBERT-base](https://github.com/Beomi/KcBERT)         |   110M    |   79.79    | 89.62        |         84.34          |       66.95        |        74.85         |           75.57           |            93.93            |         60.25 / 84.39         |  68.77 |
 | [XLM-Roberta-base](https://github.com/pytorch/fairseq/tree/master/examples/xlmr)   | 280M  | 83.03    |89.49        |         86.26          |       82.95        |        79.92         |           79.09           |            93.53            |         64.70 / 88.94         |  64.06  |
 
 
