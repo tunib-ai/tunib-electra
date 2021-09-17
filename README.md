@@ -123,5 +123,5 @@ If you find this code/model useful, please consider citing:
   
 `TUNiB-Electra` is licensed under the terms of the Apache 2.0 License.   
   
-Copyright 2021 TUNiB Inc. All Rights Reserved.
+Copyright 2021 TUNiB Inc. http://www.tunib.ai All Rights Reserved.
 
