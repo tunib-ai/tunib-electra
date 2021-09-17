@@ -112,7 +112,7 @@ If you find this code/model useful, please consider citing:
 ```
 @misc{tunib-electra,
   author       = {Ha, Sangchun and Kim, Soohwan and Ryu, Myeonghyeon and
-                  Keum, Bitna and Oh, Saechan, and Ko, Hyunwoong, and Park, Kyubyong},
+                  Keum, Bitna and Oh, Saechan and Ko, Hyunwoong and Park, Kyubyong},
   title        = {TUNiB-Electra},
   howpublished = {\url{https://github.com/tunib-ai/tunib-electra}},
   year         = {2021},
