@@ -6,6 +6,7 @@ You can use TUNiB-Electra with the Hugging Face [transformers](https://github.co
   
 ### What's New:
 
+- Sep 19, 2021 [Released a tech blog](https://tunib.notion.site/TECH-2021-09-18-TUNiB-Electra-3eba9f55859d4992a085a64c600dc150)
 - Sep 17, 2021 [Released TUNiB-Electra](https://github.com/tunib-ai/tunib-electra). 
   
 ## How to use
